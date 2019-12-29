@@ -1,1 +1,11 @@
-﻿  sandBox_bin.vcxproj -> C:\Dev\EngineIGLnew\sandBox_bin.exe
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Dev\EngineIGLnew\external\glfw\include\GLFW/glfw3.h(104): message : see previous definition of 'APIENTRY'
+C:\Dev\EngineIGLnew\tutorial/sandBox/inputManager.h(13,51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\EngineIGLnew\tutorial/sandBox/inputManager.h(113,81): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Dev\EngineIGLnew\tutorial/sandBox/inputManager.h(113,68): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Dev\EngineIGLnew\tutorial/sandBox/inputManager.h(113,55): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Dev\EngineIGLnew\tutorial/sandBox/inputManager.h(118,73): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Dev\EngineIGLnew\tutorial/sandBox/inputManager.h(118,60): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Dev\EngineIGLnew\tutorial/sandBox/inputManager.h(118,47): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  sandBox_bin.vcxproj -> C:\Dev\EngineIGLnew\sandBox_bin.exe

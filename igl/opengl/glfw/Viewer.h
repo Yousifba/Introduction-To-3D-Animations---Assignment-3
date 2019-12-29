@@ -161,8 +161,8 @@ public:
 	int arm_length = 4;
 	double link_length = INT_MIN;
 	Eigen::Vector4f arm_root;
-	Eigen::Vector4f parent_axis_coordinates[10];
-	Eigen::Matrix4f parent_axis_rotation[10];
+	Eigen::Vector4f parent_axis_coordinates[26];
+	Eigen::Matrix4f parent_axis_rotation[26];
 	Eigen::Matrix4f arm_root_rotation;
 	double arm_scale = 1.0f;
 	Eigen::Vector3f arm_geo_center = Eigen::Vector3f::Zero();
