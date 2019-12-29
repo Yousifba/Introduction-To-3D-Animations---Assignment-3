@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Dev/EngineIGLnew/cmake/DownloadProject.CMakeLists.cmake.in
+C:/Dev/EngineIGLnew/cmake/DownloadProject.cmake
+C:/Dev/EngineIGLnew/cmake/LibiglDownloadExternal.cmake
+C:/Dev/EngineIGLnew/tutorial/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.16/Modules/CMakeParseArguments.cmake

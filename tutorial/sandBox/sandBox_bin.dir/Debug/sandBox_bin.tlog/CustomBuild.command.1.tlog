@@ -1,0 +1,10 @@
+^C:\DEV\ENGINEIGLNEW\TUTORIAL\SANDBOX\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/EngineIGLnew -BC:/Dev/EngineIGLnew --check-stamp-file C:/Dev/EngineIGLnew/tutorial/sandBox/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
